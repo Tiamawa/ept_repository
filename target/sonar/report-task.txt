@@ -1,0 +1,6 @@
+projectKey=sn.ept:Calcul
+serverUrl=http://localhost:9000
+serverVersion=6.7.1.35068
+dashboardUrl=http://localhost:9000/dashboard/index/sn.ept:Calcul
+ceTaskId=AWFSg5GORPYkgjd_dmdg
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWFSg5GORPYkgjd_dmdg
